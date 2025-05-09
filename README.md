@@ -1,1 +1,1 @@
-This is a remake of the old snake game made by usnig SFML in C++ coding.
+This is a remake of the old snake game made by using SFML in C++ coding.
